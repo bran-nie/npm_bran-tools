@@ -20,6 +20,4 @@ const search2query = (url) => {
     }
 };
 
-module.exports = {
-    search2query,
-};
+export default search2query;

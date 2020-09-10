@@ -1,5 +1,5 @@
 const { search2query } = require('./src/url/search2query');
 
-module.export = {
+module.exports = {
     search2query,
 };

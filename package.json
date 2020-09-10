@@ -1,8 +1,9 @@
 {
     "name": "bran-tools",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "bran.nie's tools",
     "main": "index.js",
+    "module": "index.es.js",
     "scripts": {
         "test": "jest"
     },
