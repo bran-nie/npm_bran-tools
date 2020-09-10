@@ -1,0 +1,22 @@
+{
+  "name": "bran-tools",
+  "version": "1.0.0",
+  "description": "bran.nie's tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bran.nie/npm_bran-tools.git"
+  },
+  "keywords": [
+    "tools"
+  ],
+  "author": "bran.nie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bran.nie/npm_bran-tools/issues"
+  },
+  "homepage": "https://github.com/bran.nie/npm_bran-tools#readme"
+}
